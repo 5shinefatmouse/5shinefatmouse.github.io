@@ -1,7 +1,7 @@
 body{
     width: 2000px;
     height: 976px;
-    background-image: url('Image/acg.gy_12.jpg');
+    background-image: url('./acg.gy_12.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
